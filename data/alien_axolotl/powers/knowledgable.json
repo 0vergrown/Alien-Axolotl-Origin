@@ -1,0 +1,9 @@
+{
+    "type": "origins:modify_xp_gain",
+    "modifier": {
+        "operation": "multiply_base",
+        "value": 2.0
+    },
+	"name": "Knowledgable",
+	"description": "You have the knowledge to gain more xp."
+}

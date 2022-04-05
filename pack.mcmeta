@@ -1,0 +1,23 @@
+{
+  "pack":{
+     "pack_format":8,
+     "description":[
+        "",
+        {
+           "text":"You are an "
+        },
+        {
+           "text":"Axolotl",
+           "color":"light_purple"
+        },
+        {
+           "text":", but "
+        },
+        {
+           "text":"alien!",
+           "italic":true,
+           "color":"dark_green"
+        }
+     ]
+  }
+}
